@@ -98,9 +98,6 @@ blockquote
 }
 /*images*/
 figure{
-  display: block;
-  clear: right;
-  float: none ;
   width: 175px;
   height: 175px;
 }
