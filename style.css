@@ -98,12 +98,20 @@ blockquote
 }
 /*images*/
 figure{
-  width: 175px;
-  height: 175px;
+  width: 196px;
+}
+figure > img {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 128px;
+  width: 128px;
+
 }
 figcaption{
-  text-align: left;
+  text-align: center;
   color:#73000a;
+  
 }
 .fileIcon
 {
