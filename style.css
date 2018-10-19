@@ -96,6 +96,15 @@ blockquote
   font-weight: 400;
   font-style: normal;
 }
+a{
+  color: #73000a;
+  text-decoration-color: #73000a;
+}
+a:visited
+{
+  color: #0A82BF;
+  text-decoration-color: #0A82BF;
+}
 /*images*/
 figure{
   width: 196px;
@@ -111,7 +120,7 @@ figure > img {
 figcaption{
   text-align: center;
   color:#73000a;
-  
+
 }
 .fileIcon
 {
